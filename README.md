@@ -5,7 +5,7 @@ My Site => https://milwad.ir/
 
 ## Install
  
-Just Extract And Run App :)
+Just Extract And In Terminal Run " flutter pub get " And Run App :)
 
 ## Getting Started
 
