@@ -1,4 +1,4 @@
-# detail_divar
+# Detail Divar
 
 This is a Mini-Project For Divar App With Milwad.
 My Site => https://milwad.ir/
